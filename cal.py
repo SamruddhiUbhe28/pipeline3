@@ -7,4 +7,4 @@ num2 = 6.3
 sum = num1 + num2
 
 # Display the sum
-print('The sum is ',sum)
+print('The sum of two numbers is',sum)
